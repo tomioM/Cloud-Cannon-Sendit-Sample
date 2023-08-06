@@ -10,6 +10,7 @@ export default function HomeHero(block) {
           <div className="col-lg-6">
             <div className="hero-two-content">
               <h1 className="mb-4">{block.title}</h1>
+              <h2 className="editable">Editable Text</h2>
               <div
                 className="mb-7 w-xxl-80"
                 dangerouslySetInnerHTML={{
