@@ -18,6 +18,7 @@ export default function GlobalError(block) {
               <a href="/" className="btn btn-lg btn-primary">
                 Try again
               </a>
+              <p class="editable">Editable Text?</p>
             </div>
           </div>
         </div>
