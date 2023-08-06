@@ -17,6 +17,7 @@ export default function AboutHero(block) {
 
   return (
     <section className="about-hero-two">
+    <h1 editable>Edit me!</h1>
       <div className="container">
         <div className="row">
           <div className="col-xl-5 col-lg-10 mx-auto">
